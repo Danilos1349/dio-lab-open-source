@@ -3,7 +3,7 @@
 ## Resumo
 
 Olá, me chamo Danilo e sou estudante de Administração na UFMG. Estou aqui para aprender
-pelo menos o básico de programação para poder usar na minha carreira profissional.
+pelo menos o básico de programação para poder usar na minha carreira profissional em finanças.
 
 ## Minhas Redes
 
